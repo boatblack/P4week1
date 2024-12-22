@@ -1,0 +1,25 @@
+.home {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .home-header {
+    background-color:black ;
+    width: 500%;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home h1 {
+    font-size: 3rem;
+    color:aqua;
+  }
+  
+  .home p {
+    font-size: 1.5rem;
+    color:aqua;
+  }
+  

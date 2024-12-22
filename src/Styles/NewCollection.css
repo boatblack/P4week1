@@ -1,0 +1,8 @@
+/* src/Styles/NewCollection.css */
+.new-collection {
+  padding: 50px;
+  background-color:aqua;
+  color:black;
+  text-align: center;width:400%;height: 50%;;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

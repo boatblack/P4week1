@@ -1,0 +1,11 @@
+.item-description {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .item-description img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  

@@ -1,0 +1,28 @@
+.navbar {
+    background-color: black;
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  .navbar ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .navbar li {
+    margin: 500px;
+    width: 300%;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration:none;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  

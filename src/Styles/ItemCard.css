@@ -1,0 +1,17 @@
+.item-card {
+    border: 2px solid ;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .item-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .item-card select {
+    margin: 5px;
+  }
+  
